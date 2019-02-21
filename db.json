@@ -1,0 +1,30 @@
+{
+    "response": {
+        "data": {
+            "general_notifications": [
+                {
+                    "uuid": "373f47c2-2b87-11e9-80bd-62c8d113d8df",
+                    "message": "Anda baru saja mengubah informasi bank akun Anda pada business profile zainalsp. Silahkan hubungi Kami jika Anda tidak melakukan perubahan.",
+                    "created_at": "8 February 2019 16:52",
+                    "read_at": null
+                },
+                {
+                    "uuid": "8e313312-1582-11e9-a65f-9a06910a198e",
+                    "message": "Maaf, Express Guy telah membatalkan pekerjaan dari Anda.",
+                    "created_at": "11 January 2019 16:23",
+                    "read_at": null
+                }
+            ],
+            "message_notifications": [
+                {
+                    "uuid": "855ba128-1582-11e9-9523-9a06910a198e",
+                    "message": "Ada pesan baru dari testspglobal",
+                    "created_at": "11 January 2019 16:23",
+                    "read_at": null
+                }
+            ]
+        },
+        "status": 200,
+        "status_description": "success"
+    }
+}
